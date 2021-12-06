@@ -2,7 +2,7 @@ import java.io.BufferedOutputStream;
 import java.io.FileOutputStream;
 
 /**
- * BufferedOutputStream:处理流(高级流)，缓冲输出流
+ * BufferedOutputStream:处理流(高级流)，缓冲输出流gwddwdiu
  * @author Administrator
  *dsad
  */
